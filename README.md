@@ -1,4 +1,4 @@
-# Son Karbon Bükücüleri
+# CarbonWise
 Bu sayfa karbon ayak izi hesaplamak ve karbon ayak izi, geri dönüşüm vb. konular hakkında insanları bilinçlendirmek amacıyla tasarlanmıştır.
 
 Özet:
@@ -14,6 +14,8 @@ Kullanıcılara sürdürülebilir ürünler satın alma seçeneği sunarak sürd
 
 Hedef Kitle:
 Sürdürülebilirlik ve karbon ayak izi konularında bilinçlenmeye ihtiyacı olan ve sürdürülebilir alışkanlıklar kazanmayı hedefleyen insanlar.
+
+Site linki: https://carbonwise.pages.dev/
 
 GitHub proje linki:
 https://github.com/haticekubrac/son-karbon-bukuculeri
